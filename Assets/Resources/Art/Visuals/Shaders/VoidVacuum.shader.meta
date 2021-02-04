@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bb9e0540e49ac6a4ca2d7f003721f7c7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _pebbles: {fileID: 2800000, guid: e0be021dd484d3e46bcab13d4b912d22, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
